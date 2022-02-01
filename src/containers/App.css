@@ -1,4 +1,13 @@
-.App {
+h1{
+  font-family: 'SEGA LOGO FONT', sans-serif;
+  font-weight: 200;
+  color: #0ccac4;
+}
+                                                
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +44,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
